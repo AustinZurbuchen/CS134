@@ -1,0 +1,10 @@
+﻿  Main.c
+src\Main.c(301): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\Main.c(302): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDLTemplate.vcxproj -> C:\Users\azzbu_000\Desktop\Classes\CS134\HW\SDLTemplate\Release\SDLTemplate.exe
+  SDLTemplate.vcxproj -> C:\Users\azzbu_000\Desktop\Classes\CS134\HW\SDLTemplate\Release\SDLTemplate.pdb (Full PDB)
